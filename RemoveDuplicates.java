@@ -1,0 +1,13 @@
+/*
+Write a method that returns a new array by eliminating the duplicate values in the
+array using the following method header:
+public static int[] eliminateDuplicates(int[] list)
+Write a Java Program that reads in ten integers, invokes the method, and displays
+the result.
+*/
+import java.util.*;
+public class RemoveDuplicates {
+    public static int[] eliminateDuplicates(int[]list){
+        
+    }
+}
